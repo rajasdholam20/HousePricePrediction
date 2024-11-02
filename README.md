@@ -1,2 +1,5 @@
-# HousePricePrediction
-House Price Prediction This project aims to build a predictive model for housing prices using machine learning algorithams..
+This project focuses on predicting house prices using machine learning techniques. Given a dataset of various properties and their attributes—such as location, size, number of bedrooms, bathrooms, and other features—this model aims to accurately estimate the market value of homes. The project involves data preprocessing, exploratory data analysis, feature engineering, and implementing various machine learning algorithms to develop a robust predictive model.
+
+Key algorithms typically include linear regression, decision trees, random forests, and gradient boosting (e.g., XGBoost, CatBoost). These models are trained and evaluated to determine which one provides the most accurate predictions. The project can also explore hyperparameter tuning and cross-validation to enhance model performance.
+
+The ultimate goal is to create a model that can assist real estate professionals and prospective homebuyers in making data-driven decisions by providing a reliable estimate of property prices. This project not only demonstrates practical machine learning skills but also highlights the model's potential to add real-world value in the real estate domain.
